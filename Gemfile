@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://mirrors.aliyun.org/rubygems/'
 
 def darwin_only(require_as)
   RUBY_PLATFORM.include?('darwin') && require_as
