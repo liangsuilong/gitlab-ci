@@ -1,5 +1,5 @@
 GEM
-  remote: https://mirrors.aliyun.com/rubygems/
+  remote: http://mirrors.aliyun.com/rubygems/
   specs:
     actionmailer (4.0.2)
       actionpack (= 4.0.2)
